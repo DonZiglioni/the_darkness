@@ -1,0 +1,28 @@
+.grid {
+  border: 2px solid black;
+  border-radius: 25px;
+  margin: 0;
+  padding-left: .5em;
+  padding-right: .5em;
+  opacity: 1;
+  transition: opacity 2s;
+  box-shadow: 0px 0px 100px 20px rgba(255, 255, 0, 0.1);
+  transition: box-shadow 1s;
+}
+
+.grid-win {
+  box-shadow: none;
+}
+
+.winner {
+  padding: 2em;
+  font-size: 2em;
+  font-family: 'Tangerine', cursive;
+  color: rgba(128, 255, 212, .5);
+  text-shadow: 2px 1px rgba(46, 93, 77, .5);
+  border: 2px solid rgba(128, 255, 212, .5);
+  border-radius: 25%;
+  box-shadow: 2px 1px rgba(46, 93, 77, .5);
+  opacity: 1;
+  transition: opacity 2s;
+}

@@ -1,0 +1,20 @@
+.Cell {
+  height: 6em;
+  width: 6em;
+  background-color: rgb(0, 0, 0);
+  border: 1px solid darkgray;
+  cursor: pointer;
+  border-radius: 20px;
+
+}
+
+.Cell-lit {
+  background: linear-gradient(-45deg, rgba(0, 0, 0, 0.22), rgba(255, 255, 255, 0.25));
+  background-color: rgb(255, 255, 0);
+  border-radius: 20px;
+}
+
+.Cell-lit:active {
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.22), rgba(255, 255, 255, 0.25));
+  background-color: rgb(255, 255, 0);
+}
