@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/the_darkness/static/css/main.7fe45916.css",
+    "main.js": "/the_darkness/static/js/main.8da6c561.js",
+    "static/js/496.b5c05e09.chunk.js": "/the_darkness/static/js/496.b5c05e09.chunk.js",
+    "static/media/award.wav": "/the_darkness/static/media/award.6d42a2283b10973127b6.wav",
+    "static/media/lampOn.wav": "/the_darkness/static/media/lampOn.78d522ce2d1d22e5b035.wav",
+    "static/media/switch.wav": "/the_darkness/static/media/switch.820bb1dc860804961553.wav",
+    "index.html": "/the_darkness/index.html",
+    "main.7fe45916.css.map": "/the_darkness/static/css/main.7fe45916.css.map",
+    "main.8da6c561.js.map": "/the_darkness/static/js/main.8da6c561.js.map",
+    "496.b5c05e09.chunk.js.map": "/the_darkness/static/js/496.b5c05e09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fe45916.css",
+    "static/js/main.8da6c561.js"
+  ]
+}
